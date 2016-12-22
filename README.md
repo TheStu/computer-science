@@ -97,9 +97,8 @@ Courses | Duration | Effort | Done
 
 Courses | Duration | Effort | Done
 :-- | :--: | :--: | :--:
-[How to Code: Systematic Program Design - Part 1](https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd1x)| 5 weeks | 8-12 hours/week | No
-[How to Code: Systematic Program Design - Part 2](https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd2x)| 5 weeks | 8-12 hours/week | No
-[How to Code: Systematic Program Design - Part 3](https://www.edx.org/course/how-code-systematic-program-design-part-ubcx-spd3x)| 5 weeks | 8-12 hours/week | No
+[Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)| 12 weeks | 15 hours/week | No
+[Advanced Software Construction in Java](https://www.edx.org/course/advanced-software-construction-java-mitx-6-005-2x)| 10 weeks | 15 hours/week | No
 
 ### Math (Calculus and Discrete Math)
 
@@ -112,7 +111,7 @@ Courses | Duration | Effort | Done
 
 Courses | Duration | Effort | Done
 :-- | :--: | :--: | :--:
-[Algorithms, Part I](https://www.coursera.org/course/algs4partI)| 6 weeks | 6-12 hours/week | No
+[Algorithms, Part I](https://www.coursera.org/course/algs4partI) or [here](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced)| 6 weeks | 6-12 hours/week | No
 [Algorithms, Part II](https://www.coursera.org/course/algs4partII)| 6 weeks |  6-12 hours/week | No
 
 ### Programming Paradigms
